@@ -1,6 +1,11 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
   "settings": {
+    "workbench.colorTheme": "Default Dark+",
     "arduino.additionalUrls": [
       "http://localhost:8000/package_ahmsec_index.json",
       "https://ahmsec-arduino-index.s3.amazonaws.com/package_ahmsec_index.json"
